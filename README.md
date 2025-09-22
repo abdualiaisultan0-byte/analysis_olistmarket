@@ -27,7 +27,6 @@ The platform combines **PostgreSQL for database management, Python for analysis,
 ## Tech Stack
 - **Database:** PostgreSQL (via pgAdmin)  
 - **Programming:** Python (pandas, psycopg2, matplotlib)  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Data Source:** Olist E-commerce Dataset (Kaggle)  
 
 ---
